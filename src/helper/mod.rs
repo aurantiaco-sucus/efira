@@ -1,4 +1,5 @@
 pub mod gop;
+pub mod fmt;
 
 use alloc::format;
 use alloc::string::String;

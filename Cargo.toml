@@ -6,3 +6,13 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+log = "0.4"
+uefi = "0.20"
+uefi-services = "0.17"
+embedded-graphics = "0.7"
+profont = "0.6"
+bytemuck = "1.13"
+tinytga = "0.4"
+gpt_disk_io = "0.14"
+gpt_disk_types = "0.14"
+uguid = "1.2"
